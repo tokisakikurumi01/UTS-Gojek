@@ -2,3 +2,6 @@
 
 dibuat menggunakan flutter
  
+825180010- Ricky Giovanni Putra Tanjaya
+825180001- Calvin
+825180073- Apostelhoreb
